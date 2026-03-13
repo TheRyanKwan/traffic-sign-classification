@@ -1,0 +1,9 @@
+data/
+*.zip
+*.pth
+*.pt
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+artifacts/models/
+artifacts/cache/
