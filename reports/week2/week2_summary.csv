@@ -1,0 +1,2 @@
+train_rows,val_rows,test_rows,image_size,use_roi_crop,preprocessing,batch_size
+23976,2664,12630,64,True,clahe,128
