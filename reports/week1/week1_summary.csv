@@ -1,0 +1,2 @@
+train_samples,test_samples,num_classes,val_fraction,img_size_for_week2
+26640,12630,43,0.1,64
