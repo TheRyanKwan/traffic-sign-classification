@@ -1,0 +1,2 @@
+experiment,pretrained,loc_hidden,best_epoch,val_accuracy,val_precision_macro,val_recall_macro,val_f1_macro,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro
+resnet18_pretrained_stn,True,32,17,0.9996246246246246,0.999816883354697,0.9997577519379846,0.999786321598507,0.9885193982581156,0.9863200051060622,0.9780547493924643,0.981230730406155
